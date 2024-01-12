@@ -108,4 +108,4 @@ Google BigQuery functions as a data warehouse, storing and processing informatio
 This orchestrated technology architecture aims to create a seamless and intelligent HEMS, ensuring optimal user experiences, efficient IoT device management, and continuous improvement through data-driven insights.
 
 ## Nature of this Project
-This is a project submission repository for the KitaHack 2024 Hackathon. This project is not intended for commercial use. Our team members consist of students from the Asia Pacific University of Technology & Innovation (APU), Teh Chen Ming, (Desmond)Foo Yau Yit, Chooi Yao Feng, and Ooi Xin Ru
+This is a project submission repository for the KitaHack 2024 Hackathon. This project is not intended for commercial use. Our team members consist of students from the Asia Pacific University of Technology & Innovation (APU), Teh Chen Ming, (Desmond)Foo Yau Yit, Chooi Yao Feng, and Ooi Xin Ru.All copyright and other intellectual property rights in all text, images and other materials on this website are the property of the Watt's up Wizards Group or are included with the permission of the relevant owner.
